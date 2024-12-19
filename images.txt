@@ -1,5 +1,7 @@
+#支持架构
 --platform=liunx/adm64
 
+#镜像地址
 docker.getcollate.io/openmetadata/db:1.4.3
 docker.elastic.co/elasticsearch/elasticsearch:8.10.2
 docker.getcollate.io/openmetadata/server:1.4.3
